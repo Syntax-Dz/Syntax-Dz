@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syntax-Dz
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning ... 
   
 
